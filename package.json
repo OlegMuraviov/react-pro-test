@@ -1,8 +1,8 @@
 {
-  "name": "react-team-project",
+  "name": "react-pro-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mrok-creator.github.io/react-team-project/",
+  "homepage": "https://OlegMuraviov.github.io/react-pro-test/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.2",
     "@testing-library/jest-dom": "^5.16.3",
